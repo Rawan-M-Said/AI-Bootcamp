@@ -1,0 +1,23 @@
+Linear Regression
+	Y = M X + C
+	M -> Weight
+	C -> Bias
+Training -> the machine keeps trying different values for the parameters till getting least error and best accuracy
+
+Datasets getter -> Kaggle.com
+
+Phase 1 -> Data Preprocessing
+	Remove unused columns
+	Convert text data into numbers
+	Plain data -> Either remove the entire row or put the average value instead of it
+	
+Types of machine learning
+	Supervised -> Labeled data
+	Unsupervised -> Unlabeled data
+	Semi-supervised
+
+Outlines -> Some unlogical data, they appear on pairplot
+
+Do not enter all data for training (Overfitting may occur)
+Enter 70% for training and 30% for testing
+
